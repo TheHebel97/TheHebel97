@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lukas aka @TheHebel97
+- 👋 Hi, I’m Lukas aka TheHebel97
 - 🎓 I´m studying Media Computer Science at University of Applied Sciences Osnabrück
 - 👀 I’m interested in Web Development and Game Development
 - 🌱 I’m currently learning JavaScript, C++ and Java
