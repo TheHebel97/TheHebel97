@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @TheHebel97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Lukas aka @TheHebel97
+- 🎓 I´m studying Media Computer Science at University of Applied Sciences Osnabrück
+- 👀 I’m interested in Web Development, Game Development
+- 🌱 I’m currently learning JavaScript, C++ and Java
+
+
 
 <!---
 TheHebel97/TheHebel97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
